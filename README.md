@@ -14,5 +14,5 @@ Footer: A footer section with links to various pages (About, Help Center, Terms 
 │   ├── images              # Folder for images (logo, thumbnails, etc.)
 │   └── fonts               # Folder for custom fonts if needed
 └── README.md               # Description of the project, how to use, etc.
-![Screenshot 2024-08-26 200810](https://github.com/user-attachments/assets/992c3d84-bca5-4192-9db0-882eb7c34941)
-![Screenshot 2024-08-26 200810](https://github.com/user-attachments/assets/7ce6ab62-5d32-4018-a896-cc9c6c63d963)
+![Screenshot 2024-08-26 200810](https://github.com/user-attachments/assets/992c3d84-bca5-4192-9db0-882eb7c34941)![Screenshot 2024-08-28 172752](https://github.com/user-attachments/assets/05038e03-4a29-45c7-b349-3557dad5b8de)
+
